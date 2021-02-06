@@ -224,14 +224,24 @@ PROXY RETRIEVE ERROR
 {"message":"Exception has been thrown by the target of an invocation.","description":"System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. - from mscorlib --> \r\n\r\n --- inner exception 1---\r\n\r\nExactTarget.OMM.FunctionExecutionException: WSProxy object is not valid in sendable content. This function is only allowed in non-sendable content.\r\n Object: Script.Util.WSProxy()\r\n Error Code: OMM_FUNC_CONTEXT_ERR\r\n - from OMMCommon\r\n\r\n\r\n\r\n"} 
 ```
 
-## relevant trailhead
+## Relevant trailhead
 
-https://trailhead.salesforce.com/content/learn/modules/trailhead_basics
-https://trailhead.salesforce.com/en/content/learn/trails/create-compelling-content-with-content-builder
-https://trailhead.salesforce.com/content/learn/modules/content-builder-block-sdk
-https://trailhead.salesforce.com/content/learn/modules/content-builder-basics
-https://trailhead.salesforce.com/content/learn/modules/ampscript-for-nondevelopers
-https://trailhead.salesforce.com/content/learn/modules/appexchange-solutions
-https://trailhead.salesforce.com/content/learn/modules/marketing-cloud-developer-basics
-https://trailhead.salesforce.com/content/learn/modules/marketing-cloud-programmatic-languages
-https://trailhead.salesforce.com/content/learn/modules/content-builder-features
+https://trailhead.salesforce.com/content/learn/modules/trailhead_basics <br>
+https://trailhead.salesforce.com/en/content/learn/trails/create-compelling-content-with-content-builder <br>
+https://trailhead.salesforce.com/content/learn/modules/content-builder-block-sdk <br>
+https://trailhead.salesforce.com/content/learn/modules/content-builder-basics <br>
+https://trailhead.salesforce.com/content/learn/modules/ampscript-for-nondevelopers <br>
+https://trailhead.salesforce.com/content/learn/modules/appexchange-solutions <br>
+https://trailhead.salesforce.com/content/learn/modules/marketing-cloud-developer-basics <br>
+https://trailhead.salesforce.com/content/learn/modules/marketing-cloud-programmatic-languages <br>
+https://trailhead.salesforce.com/content/learn/modules/content-builder-features <br>
+
+## Useful sites
+
+https://gortonington.com/restapimethodinssjs/ <br>
+https://gortonington.com/sfmc-server-side-javascript-1-intro/ <br>
+https://gortonington.com/sfmc-server-side-javascript-1-5-js-background/ <br>
+https://gortonington.com/sfmc-ssjs-2-overview/ <br>
+https://gortonington.com/sfmc-server-side-javascript-3-platform-library/ <br>
+https://gortonington.com/sfmc-server-side-javascript-4-core-library/ <br>
+https://gortonington.com/sfmc-server-side-javascript-5-wsproxy/ <br>
